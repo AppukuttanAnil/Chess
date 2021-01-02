@@ -1,0 +1,1 @@
+Design a Chess Game conforming to SOLID principles
